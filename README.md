@@ -1,6 +1,6 @@
 # PhenoApps Hackathon
-* Current code can be found in the [PhenoApps] (https://github.com/phenoapps)
-* Challenge format: <App> - <Points> - <Title>
+* Current code can be found in the [PhenoApps](https://github.com/phenoapps)
+* Challenge format: App - Points - Title
 * New challenges can be requested and added
 
 # Rules
